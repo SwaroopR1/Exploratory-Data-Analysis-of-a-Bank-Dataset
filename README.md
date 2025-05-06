@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) of a Bank's Marketing Campaign Dataset
 ---
-I undertook this project during my Finlatics' **Data Science Experience Program**.
+I undertook this project during my **Finlatics' Data Science Experience Program**.
 
 In this project, I used **Python** to perform **Exploratory Data Analysis (EDA)** on a **Portuguese bank's marketing dataset** to derive useful insights. The following files are included in this repository:
 
