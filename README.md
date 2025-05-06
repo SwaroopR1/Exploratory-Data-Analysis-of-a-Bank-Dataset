@@ -20,4 +20,5 @@ In this project, I used **Python** to perform **Exploratory Data Analysis (EDA)*
    - Each module is designed to fulfill specific objectives.
    
 4. **Data_Analysis.pdf**: A PDF version of a PowerPoint presentation summarizing demographic trends and insights.
-5.  **Code_Data_Analysis.pptx**: A PowerPoint presentation explaining the Python modules' functionality, observed demographics, and insights.
+5. **Code_Description.pdf**: A PDF file providing the flowcharts and description for the code.
+6.  **Code_Analysis.pptx**: A PowerPoint presentation explaining the Python modules' functionality, observed demographics, and insights.
