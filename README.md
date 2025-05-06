@@ -3,6 +3,8 @@
 ![122](https://github.com/user-attachments/assets/02a507e6-13bd-4f2b-91a8-10125fe09ac4)
 
 ---
+Project Context:
+
 I undertook this project during my **Finlatics' Data Science Experience Program**.
 
 In this project, I used **Python** to perform **Exploratory Data Analysis (EDA)** on a **Portuguese bank's marketing dataset** to derive useful insights. The following files are included in the "Uploaded_Files.zip" directory of this repository:
