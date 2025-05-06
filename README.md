@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) of a Bank's Marketing Campaign Dataset
 ---
-![122](https://github.com/user-attachments/assets/996cdc26-30e4-4dfe-9adf-d16d0e329502)
+![122](https://github.com/user-attachments/assets/1f68fff3-b572-4d3b-9e17-53b0fcf02957)
 
 ---
 I undertook this project during my **Finlatics' Data Science Experience Program**.
