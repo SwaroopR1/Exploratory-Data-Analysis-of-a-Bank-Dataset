@@ -5,7 +5,7 @@
 ---
 I undertook this project during my **Finlatics' Data Science Experience Program**.
 
-In this project, I used **Python** to perform **Exploratory Data Analysis (EDA)** on a **Portuguese bank's marketing dataset** to derive useful insights. The following files are included in this repository:
+In this project, I used **Python** to perform **Exploratory Data Analysis (EDA)** on a **Portuguese bank's marketing dataset** to derive useful insights. The following files are included in the "Uploaded_Files.zip" directory of this repository:
 
 1. **Problem Statement & Data Description.docx**: Contains the dataset description and key questions to be answered through EDA.
 2. **banking_data.csv**: The raw dataset used for analysis.
