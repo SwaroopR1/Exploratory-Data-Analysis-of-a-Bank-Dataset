@@ -9,9 +9,9 @@ In this project, I used **Python** to perform **Exploratory Data Analysis (EDA)*
 3. **Modules_for_Project**:
 A directory containing interconnected Python modules:
 
-- The 'main()' module serves as the entry point, calling other modules as needed.
-
-- Each module is designed to fulfill specific objectives.
+   - The 'main()' module serves as the entry point, calling other modules as needed.
+   
+   - Each module is designed to fulfill specific objectives.
    
 4. **Data_Analysis.pptx**: A PowerPoint presentation summarizing demographic trends and insights.
 5. **Data_Analysis.pdf**: PDF version of the above presentation.
