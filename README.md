@@ -6,8 +6,7 @@ In this project, I used **Python** to perform **Exploratory Data Analysis (EDA)*
 
 1. **Problem Statement & Data Description.docx**: Contains the dataset description and key questions to be answered through EDA.
 2. **banking_data.csv**: The raw dataset used for analysis.
-3. **Modules_for_Project**:
-A directory containing interconnected Python modules:
+3. **Modules_for_Project**: A directory containing interconnected Python modules:
 
    - The 'main()' module serves as the entry point, calling other modules as needed.
    
