@@ -15,8 +15,8 @@ In this project, I used **Python** to perform **Exploratory Data Analysis (EDA)*
    - The other modules are:
       - null_values_dealt.py
       - Overview.py
-      - distribu􀆟on_numeric.py
-      - Variable_distribu􀆟on.py
+      - distribution_numeric.py
+      - Variable_distribution.py
    - Each module is designed to fulfill specific objectives.
    
 4. **Data_Analysis.pdf**: A PDF version of a PowerPoint presentation summarizing demographic trends and insights.
